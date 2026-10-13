@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="es">
 <head>
     <meta charset="UTF-8">
@@ -11,19 +11,19 @@
 </head>
 <body>
     <nav>
-    <a href="inicio.html">Inicio</a> | 
-    <a href="catalogo.html">Catálogo</a> | 
-    <a href="ofertas.html">Ofertas</a> | 
-    <a href="pagos.html">Pagos</a> |  
-    <a href="vendedores.html">Vendedores</a> | 
-    <a href="novedades.html">Novedades</a> | 
-    <a href="opciones.html">Opciones</a> | 
-    <a href="clasificacion.html">Clasificación</a> | 
-    <a href="fin.html">Fin</a> | 
-    <a href="curso.html">Curso</a> | 
-    <a href="blog.html">blog</a> | 
-    <a href="preguntas.html">Preguntas Frecuentes</a>| 
-    <a href="formulario.html">Formulario</a> | 
+    <a href="inicio.php">Inicio</a> | 
+    <a href="catalogo.php">Catálogo</a> | 
+    <a href="ofertas.php">Ofertas</a> | 
+    <a href="pagos.php">Pagos</a> |  
+    <a href="vendedores.php">Vendedores</a> | 
+    <a href="novedades.php">Novedades</a> | 
+    <a href="opciones.php">Opciones</a> | 
+    <a href="clasificacion.php">Clasificación</a> | 
+    <a href="fin.php">Fin</a> | 
+    <a href="curso.php">Curso</a> | 
+    <a href="blog.php">blog</a> | 
+    <a href="preguntas.php">Preguntas Frecuentes</a>| 
+    <a href="formulario.php">Formulario</a> | 
 
     </style>
 </head>

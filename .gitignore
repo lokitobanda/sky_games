@@ -1,0 +1,14 @@
+# Archivos locales y sensibles
+config/env.php
+.env
+.env.local
+.env.*
+!.env.example
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# Carpetas temporales
+/tmp/
+*.log

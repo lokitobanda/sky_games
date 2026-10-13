@@ -1,15 +1,10 @@
-<!DOCTYPE html>
-<html lang="es">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Venta de videojuegos - SKYGAMES</title>
-    <meta name="description" content="Descubre la mejor tienda en venta de videojuegos. Encuentra títulos digitales y físicos al mejor precio con envío rápido y garantía asegurada.">
-    <link rel="icon" href="imagenes/icono.png">
-    <link rel="stylesheet" href="estilos.css">
+<?php
+$titulo_pagina = 'Inicio';
+$body_class = '';
 
-</head>
-<body>
+require_once __DIR__ . '/includes/header.php';
+require_once __DIR__ . '/includes/nav.php';
+?>
 
 <header>
     <h1>Iniciar Sesión</h1>
@@ -17,32 +12,12 @@
 
     
    <div class="hearder">
-    <h1>SKYGAMES</h1>
-    <p>BIENVENIDO!!</p>
-    <p id="fechaHora"></p>
+   <h1>SKYGAMES</h1>
+   <p>BIENVENIDO!!</p>
+   <p id="fechaHora"></p>
+
+
    </div>
-
-    
-   <button id="modoOscuro">🌙 Activar modo oscuro</button>
- <main>
-       <nav>
-    <a href="catalogo.html">Catálogo</a> | 
-    <a href="ofertas.html">Ofertas</a> | 
-    <a href="pagos.html">Pagos</a> | 
-    <a href="envios.html">Envíos</a> | 
-    <a href="vendedores.html">Vendedores</a> | 
-    <a href="novedades.html">Novedades</a> | 
-    <a href="opciones.html">Opciones</a> | 
-    <a href="clasificacion.html">Clasificación</a> | 
-    <a href="fin.html">Fin</a> | 
-    <a href="curso.html">Curso</a> | 
-    <a href="blog.html">blog</a> | 
-    <a href="cv.html"   >cv</a>  | 
-    <a href="preguntas.html">Preguntas Frecuentes</a> | 
-    <a href="formulario.html">Formulario</a>| 
-</nav>
-</main>
-
 <hr>
 
     <h1>INICIO DE SESION</h1>
@@ -53,14 +28,14 @@
      <label for="correo">Correo electrónico:</label><br>
     <input type="email" id="correo" name="correo" placeholder="direccion de correo"><br><br>
     </form>
-    
 
-  <button
+   <button
      class="boton-registro">Registrarse</button>
 
 
+
  <h3>Bienvenido a skygames, aqui encontrarás los mejores juegos y las consolas más recientes y potentes en tecnologia</h3>
-  <img src="imagenes/icono.png" alt="Icono1" class="inicio">
+ <img src="imagenes/icono.png" alt="Icono1" class="index">
 
 
 <p>Bienvenido a nuestra plataforma especializada en la <strong>venta de videojuegos</strong> para consolas y PC. Si estás buscando renovar tu colección de entretenimiento digital o probar los títulos más recientes del mercado, contamos con un catálogo diverso pensado para todo tipo de jugadores. Nos enfocamos en ofrecer una experiencia rápida, segura y accesible para que consigas tus títulos favoritos sin complicaciones.</p>
@@ -77,17 +52,6 @@
 
       <p>Explora nuestras ofertas semanales y mantente al día con los próximos lanzamientos. Nuestra misión es brindarte la mejor atención y los precios más bajos del sector para que disfrutes de tus partidas sin límites.</p>
 
-     <footer>
-  <p><strong>skygames</strong></p>
-
-  <p>contacto@skygames.com</p>
-
-  <p>© 2026 skygames</p>
-
-
-</footer>
-
-<script src="script.js"></script>
-
-</body>
-</html>
+<?php
+require_once __DIR__ . '/includes/footer.php';
+?>

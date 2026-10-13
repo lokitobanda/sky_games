@@ -29,10 +29,10 @@ const anterior = document.getElementById("anterior");
 if (imagenGaleria && siguiente && anterior) {
 
     const imagenes = [
-        "imagenes/novedad1.jfif",
-        "imagenes/novedad2.jfif",
-        "imagenes/novedad3.jfif",
-        "imagenes/novedad4.jfif"
+        "novedad1.jfif",
+        "novedad2.jfif",
+        "novedad3.jfif",
+        "novedad4.jfif"
     ];
 
     let posicion = 0;

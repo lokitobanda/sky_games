@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="es">
 <head>
     <meta charset="UTF-8">
@@ -10,19 +10,19 @@
 
 </head>
 <body>
-    <a href="inicio.html">Inicio</a> | 
-    <a href="catalogo.html">Catálogo</a> | 
-    <a href="ofertas.html">Ofertas</a> | 
-    <a href="pagos.html">Pagos</a> |  
-    <a href="vendedores.html">Vendedores</a> | 
-    <a href="novedades.html">Novedades</a> | 
-    <a href="opciones.html">Opciones</a> | 
-    <a href="clasificacion.html">Clasificación</a> | 
-    <a href="fin.html">Fin</a> | 
-    <a href="blog.html">blog</a> | 
-    <a href="cv.html"   >cv</a> | 
-    <a href="preguntas.html">Preguntas Frecuentes</a>|
-    <a href="formulario.html">Formulario</a> | 
+    <a href="inicio.php">Inicio</a> | 
+    <a href="catalogo.php">Catálogo</a> | 
+    <a href="ofertas.php">Ofertas</a> | 
+    <a href="pagos.php">Pagos</a> |  
+    <a href="vendedores.php">Vendedores</a> | 
+    <a href="novedades.php">Novedades</a> | 
+    <a href="opciones.php">Opciones</a> | 
+    <a href="clasificacion.php">Clasificación</a> | 
+    <a href="fin.php">Fin</a> | 
+    <a href="blog.php">blog</a> | 
+    <a href="cv.php"   >cv</a> | 
+    <a href="preguntas.php">Preguntas Frecuentes</a>|
+    <a href="formulario.php">Formulario</a> | 
 
 
  <button id="modoOscuro">🌙 Activar modo oscuro</button>
@@ -30,8 +30,8 @@
 
 
      <section id="curso-videojuegos"><h1>Curso: Introducción al Mundo de los Videojuegos y Consolas</h1>
-  <h2>Descripción del Curso</h2> <p>  Aprende todo sobre videojuegos, consolas y la industria gaming. Este curso está diseñado    para principiantes y entusiastas que quieran conocer más sobre el mundo gamer.  </p>
-  <h2>Objetivos del Curso</h2> <ul>  <li>Comprender la historia de los videojuegos</li> <li>Identificar diferentes tipos de consolas</li>    <li>Conocer géneros de videojuegos</li>    <li>Aprender a elegir el equipo adecuado</li>  </ul>
+  <h2>Descripción del Curso</h2> <p>  Aprende todo sobre videojuegos, consolas y la industria gaming. Este curso está diseñado    para principiantes y entusiastas que quieran conocer más sobre el mundo gamer.  </p>
+  <h2>Objetivos del Curso</h2> <ul>  <li>Comprender la historia de los videojuegos</li> <li>Identificar diferentes tipos de consolas</li>    <li>Conocer géneros de videojuegos</li>    <li>Aprender a elegir el equipo adecuado</li>  </ul>
   <h2>Guía de Estudio</h2>
   <h3>1. Historia de los Videojuegos</h3> <h4>1.1 Orígenes</h4> <p>Primeros juegos arcade y evolución inicial.</p>
   <h4>1.2 Evolución de las Consolas</h4> <p>Desde las consolas clásicas hasta las modernas.</p>
